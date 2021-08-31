@@ -12,7 +12,7 @@ Essa será uma aplicação onde o seu principal objetivo é entender e praticar 
 
 ## 🖐️🍝Mão na massa!
 
-1.  Crie um projeto react usando o comando: `yarn create react-app ***seuprojeto***`
+1.  Crie um projeto react usando o comando: `yarn create react-app ***seuprojeto***` aa
 
 2.  Após isso, abra seu projeto no seu editor e rode o comando `yarn start` para iniciar o servidor com seu app.
 
