@@ -5,12 +5,14 @@
     padding: 20px;
     margin: 20px;
     cursor: pointer;
-    transition: 1.5s;
-    box-shadow:  5px 5px #343944
+    transition: 1.0s;
+    box-shadow:  5px 5px #343944;
+    color:white;
+    background-color:grey;
 }
 
 .container:hover{
-    box-shadow:  1px 1px #343944;
-    border: 1px solid white;
+    color: black;
+    filter:brightness(0.5)
 }
 

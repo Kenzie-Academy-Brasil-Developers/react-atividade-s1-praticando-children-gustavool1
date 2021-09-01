@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <section>
-          <CenteredCard>Children1</CenteredCard>
-          <CenteredCard children='Children 2'/>
-          <CenteredCard children='Children 3'/>
+          <CenteredCard><h1>Children1</h1></CenteredCard>
+          <CenteredCard children={<h1>Children 2</h1>}/>
+          <CenteredCard><h1>Children 3</h1></CenteredCard>
         </section>
        
       </header>
